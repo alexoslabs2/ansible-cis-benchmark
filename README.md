@@ -23,7 +23,7 @@ Create below partitions at the time of installation. The role will not create an
 Support Matrix
 --------------
 
-| Destro | Status | Role |
+| Distro | Status | Role |
 | --- | --- | --- |
 | CentOS 8 | Supported (Tested) | Centos |
 | RHEL 8 | Supported (Tested) | Centos |
