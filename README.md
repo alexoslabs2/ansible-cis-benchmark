@@ -47,5 +47,5 @@ Example Playbook
     become: yes
 
     roles:
-      -centos8
-      - nginx
+    - centos
+    - nginx
