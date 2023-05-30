@@ -1,7 +1,7 @@
 CIS - Benchmark Collection
 =========
 
-Asible role to apply CIS Benchmark on
+Ansible roles to apply CIS Benchmark on
 - CentOS 8 based
 - Nginx
 
