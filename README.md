@@ -29,7 +29,7 @@ Support Matrix
 | RHEL 8 | Supported (Tested) | Centos |
 | Oracle Linux 8 | Supported (Tested) | Centos |
 | Rocky Linux 8 | Supported (Tested) | Centos |
-| Debian 11 | Supported (Tested) | Nginx |
+| Debian 11 | Supported (Tested) | Nginx Hardening |
 
 
 Role Centos Variables
@@ -48,4 +48,4 @@ Example Playbook
 
     roles:
     - centos
-    - nginx
+    - nginx-hardening
